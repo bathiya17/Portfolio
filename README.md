@@ -8,7 +8,7 @@
 
 **PhD Thesis**
 - Theoretical Prediction for Multi Higgs Production via Photon Fusion at Muon Colliders.
-- Supervisor:  Dr. Terrence Figy.
+- Supervisor:  Dr. Terrance Figy.
   
 **MS Thesis**
 - Thesis: Pattern Storage in Qubit Arrays Using Entanglement and Quantum Annealing
