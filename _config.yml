@@ -1,15 +1,3 @@
 title: Bathiya Samarakoon
 logo: /Pics/Picture1.png
 theme: jekyll-theme-minimal
-show_downloads: true
-
-# Navigation Links
-navigation:
-  - name: "About Me"
-    link: "/about"
-  - name: "My Research Work"
-    link: "/research"
-  - name: "Paintings"
-    link: "/paintings"
-  - name: "My Articles"
-    link: "/articles"
