@@ -1,3 +1,5 @@
 title: Bathiya Samarakoon
 logo: /Pics/Picture1.png
-theme: jekyll-theme-minimal
+title: Slate theme
+google_analytics:
+theme: jekyll-theme-slate
